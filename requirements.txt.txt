@@ -1,0 +1,12 @@
+Description (English): This file lists all the Python libraries that your project depends on. Deployment environments (like Streamlit Cloud or Render) read this file to install the necessary dependencies before running your application or API.
+
+الوصف (العربية): يحتوي هذا الملف على قائمة بجميع مكتبات بايثون التي يعتمد عليها مشروعك.
+
+
+streamlit
+requests
+pandas
+scikit-learn
+joblib
+fastapi
+uvicorn
