@@ -4,6 +4,46 @@
 
 ![Project Banner - Placeholder Image if available, otherwise remove](https://via.placeholder.com/1200x400?text=Stay-Insight+Customer+Churn+Prediction)
 
+**ملاحظة:** صورة البانر أعلاه هي صورة مؤقتة. يمكنك استبدالها ببانر مخصص تقوم بتصميمه!
+
+---
+
+## لقطات شاشة المشروع / مرئيات
+
+إليك بعض العروض المرئية لمنصة Stay-Insight وميزاتها الرئيسية:
+
+### الصفحة الرئيسية / صفحة الهبوط
+![Stay-Insight Homepage](images/dfg4 (1).jpg)
+
+### فلسفتنا، المشكلة، ورؤيتنا
+![Philosophy, Problem, Mission](images/dfg4 (2).jpg)
+
+### كيف يعمل & خدمة رائدة مدعومة بالذكاء الاصطناعي
+![How It Works](images/3.jpg)
+
+### الحلول - الربح، التكلفة، توقعات الذكاء الاصطناعي، الرؤى
+![Solutions Overview](images/4.jpg)
+
+### قصص النجاح
+![Success Stories](images/5.jpg)
+
+### خطط الأسعار
+![Pricing Plans](images/6.jpg)
+
+### عملائنا
+![Our Clients](images/7.jpg)
+
+### شكرًا لك / تواصل
+![Thank You](images/8.jpg)
+
+### تطبيق Streamlit - واجهة المستخدم (بالعربية) - الجزء الأول
+![Streamlit App Part 1](images/Screenshot_17-6-2025_201544_stay-insight-project-2guj4uutwrfmrkymccdwgo.streamlit.app.jpeg)
+
+### تطبيق Streamlit - واجهة المستخدم (بالعربية) - الجزء الثاني
+![Streamlit App Part 2](images/Screenshot_17-6-2025_201612_stay-insight-project-2guj4uutwrfmrkymccdwgo.streamlit.app.jpeg)
+
+---
+
 Welcome to Stay-Insight! This project provides a comprehensive solution for businesses to predict customer churn (مغادرة العملاء) using machine learning. It offers data-driven insights to empower customer retention strategies and improve overall business growth. The platform features a user-friendly frontend built with **Streamlit** and a robust backend API powered by **FastAPI**.
 
 ---
@@ -50,7 +90,6 @@ This project leverages the following technologies:
 ## 📁 Project Structure (هيكل المشروع)
 
 The repository is organized as follows:
-
 
 ### File Descriptions:
 
@@ -245,7 +284,5 @@ For any questions or inquiries, please feel free to reach out:
 
 * **Your Name:** hamza alawneh
 * **Email:** hamzamdhatalawneh@gmail.com
-* **LinkedIn:** [(https://www.linkedin.com/in/hamza-medhat-alawneh-ab622a247/)]
-* **GitHub:** [(https://github.com/HamzahAlawneh16)]
-
----
+* **LinkedIn:** [https://www.linkedin.com/in/hamza-medhat-alawneh-ab622a247/](https://www.linkedin.com/in/hamza-medhat-alawneh-ab622a247/)
+* **GitHub:** [https://github.com/HamzahAlawneh16](https://github.com/HamzahAlawneh16)
